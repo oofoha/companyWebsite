@@ -35,7 +35,7 @@ nav ul li a {
 
 /* Welcome Section */
 #welcome {
-    background-color: #1b3b70;
+    background-color: darkblue;
     color: white;
     text-align: center;
     padding: 100px 20px;
@@ -55,20 +55,20 @@ nav ul li a {
 }
 
 .fuschia {
-    background-color: #ff00ff;
+    background-color: #ea80fc;
 }
 
 .tangerine {
-    background-color: #ff9900;
+    background-color: #d8351b;
 }
 
 .pink {
-    background-color: #ff69b4;
+    background-color: #d81b60;
 }
 
 /* Projects Section */
 #projects {
-    background-color: #ff9900;
+    background-color: darkblue;
     color: white;
     padding: 50px 20px;
     text-align: center;
