@@ -123,6 +123,7 @@ nav ul li a {
     overflow: hidden;
     line-height: 0;
     z-index: 1;
+    background-color: darkblue;
 }
 
 .wave-container svg {
