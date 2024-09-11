@@ -6,6 +6,9 @@
     <title>OffTerra Start Here</title>
     <link rel="stylesheet" href="mainstyle.css">
 </head>
+    <script src="scrollscript.js"></script>
+    <script src="https://unpkg.com/react@17/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js"></script>
 <body>
     <!-- Horizontal Menu -->
     <header>
@@ -84,9 +87,10 @@
     <!-- Fun Stuff Section -->
     <section id="funstuff">
         <h2>Fun Stuff</h2>
-        <p>Check out the cool things we do when we're not working on projects!</p>
-        <div data-snack-id="@offterra_ooh/love-language-quiz" data-snack-platform="web" data-snack-preview="true" data-snack-theme="light" style="overflow:hidden;background:#fbfcfd;border:1px solid var(--color-border);border-radius:4px;height:505px;width:100%"></div>
-<script async src="https://snack.expo.dev/embed.js"></script>
+        <p>Try out some of the fun stuff we made!</p>
+        <div id="app">
+            <script src="love-language-quiz/App.js"></script>
+        </div>
     </section>
 
     <!-- Footer -->
@@ -100,6 +104,6 @@
         </ul>
     </footer>
 
-    <script src="scrollscript.js"></script>
+
 </body>
 </html>
