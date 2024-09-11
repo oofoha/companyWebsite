@@ -54,8 +54,8 @@ nav ul li a {
     border-radius: 50%;
 }
 
-.fuschia {
-    background-color: #ea80fc;
+.violet {
+    background-color: #8715bf;
 }
 
 .tangerine {
@@ -93,8 +93,15 @@ nav ul li a {
 }
 
 /* Team and Fun Stuff Sections */
-#team, #funstuff {
+#team {
     background-color: #d81b60;
+    color: white;
+    padding: 50px 20px;
+    text-align: center;
+}
+
+#funstuff {
+    background-color: #8715bf;
     color: white;
     padding: 50px 20px;
     text-align: center;
