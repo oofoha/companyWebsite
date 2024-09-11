@@ -104,6 +104,7 @@ nav ul li a {
 .wave-container {
     position: relative;
     width: 100%;
+    height: 100px;
     overflow: hidden;
     line-height: 0;
 }
@@ -111,8 +112,12 @@ nav ul li a {
 .wave-container svg {
     position: relative;
     display: block;
-    width: 100%;
-    height: 100px;
+    width: 100vw;
+    height: auto;
+}
+
+.wave-container svg path {
+    stroke: none;
 }
 
 /* Footer */
