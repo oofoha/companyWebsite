@@ -68,7 +68,7 @@ nav ul li a {
 
 /* Projects Section */
 #projects {
-    background-color: tangerine;
+    background-color: #d8351b;
     color: white;
     padding: 50px 20px;
     text-align: center;
@@ -94,7 +94,7 @@ nav ul li a {
 
 /* Team and Fun Stuff Sections */
 #team, #funstuff {
-    background-color: pink;
+    background-color: #d81b60;
     color: white;
     padding: 50px 20px;
     text-align: center;
@@ -117,7 +117,7 @@ nav ul li a {
 
 /* Footer */
 footer {
-    background-color: #1b3b70;
+    background-color: darkblue;
     color: white;
     padding: 20px;
     text-align: center;
