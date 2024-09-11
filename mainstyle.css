@@ -68,7 +68,7 @@ nav ul li a {
 
 /* Projects Section */
 #projects {
-    background-color: darkblue;
+    background-color: tangerine;
     color: white;
     padding: 50px 20px;
     text-align: center;
@@ -94,7 +94,7 @@ nav ul li a {
 
 /* Team and Fun Stuff Sections */
 #team, #funstuff {
-    background-color: darkblue;
+    background-color: pink;
     color: white;
     padding: 50px 20px;
     text-align: center;
