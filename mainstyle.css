@@ -100,6 +100,21 @@ nav ul li a {
     text-align: center;
 }
 
+/* Wave Container */
+.wave-container {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.wave-container svg {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 100px;
+}
+
 /* Footer */
 footer {
     background-color: #1b3b70;
